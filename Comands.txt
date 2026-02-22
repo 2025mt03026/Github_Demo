@@ -1,0 +1,2 @@
+git config --global user.name "Priya"
+git config --global user.email "2025mt03026@wilp.bits-pilani.ac.in"
